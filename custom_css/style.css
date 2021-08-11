@@ -1,0 +1,16 @@
+.heading_paragraph {
+    color: #E0E0E0;
+}
+
+.button {
+    background-color: #E76F51;
+}
+
+.title {
+    font-weight: 600;
+    color: #E76F51;
+}
+
+#gray-bike {
+    filter: grayscale(100%);
+}
